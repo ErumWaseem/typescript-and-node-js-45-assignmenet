@@ -1,11 +1,9 @@
-function cityCountry(city: string, country: string): string {
-   return`${city}, ${country}`
-}
+//Assignment solution
 
-let C1 = cityCountry('Lahore','Pakistan')
-let C2 = cityCountry('Tokyo','Japan')
-let C3 = cityCountry('Paris','France')
-
-console.log(C1)
-console.log(C2)
-console.log(C3)
+//Task 11
+let Name : string[]=["Maria","Ayesha","Erum","Arfa","Afia"];
+console.log(Name[0]);
+console.log(Name[1]);
+console.log(Name[2]);
+console.log(Name[3]);
+console.log(Name[4]);
